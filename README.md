@@ -23,5 +23,6 @@
 ### How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<torrezpablo25@gmail.com>) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/)
+[![Blog Personal](https://img.shields.io/badge/Blog%20Personal-FFB823?style=for-the-badge&logo=blog&logoColor=white)](https://pablotorrez-blog.netlify.app/)
 
 ### My Repos ⬇️
