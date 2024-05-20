@@ -14,7 +14,7 @@
           versionControl: Git,
         },
       },
-      currentlyLearning: [React, Redux, Angular]
+      currentlyLearning: [React, Angular, Astro, Tailwind.CSS]
     };
    ```
    
