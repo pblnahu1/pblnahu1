@@ -1,6 +1,5 @@
 <div align="center">
-    <h1 align="center">👋 Welcome to my GitHub profile! 👋</h1> 
-    <a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=5013&color=342AB8&center=true&lines=Hi+there+👋+I'm+Pablo+🤝.;Web+Developer+⚡.;Systems+Analyst+Student+💻."></a></h2></a>
+    <h1 align="center">👋Welcome to my GitHub profile!👋</h1> 
 </div>
 
 # 💫 About Me:
@@ -16,7 +15,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pablotorrez1_) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,angular,redux,nodejs,bootstrap,php,java,git,mysql)](https://skillicons.dev)
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,angular,redux,bootstrap)](https://skillicons.dev)
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,java,git,c)](https://skillicons.dev)
 
 ### My nexts step
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
