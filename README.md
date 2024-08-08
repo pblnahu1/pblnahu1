@@ -28,8 +28,8 @@
 [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pblnahu1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pblnahu1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pblnahu1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ### My Repos ⬇️
