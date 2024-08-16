@@ -1,35 +1,20 @@
-<div align="center">
-    <h1 align="center">👋Welcome to my GitHub profile!👋</h1> 
-</div>
+# Hola, soy <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Estudiante de Análisis de Sistemas 🤖 & Full Stack Developer 🧑🏻‍💻</b>
 
-# 💫 About Me:
-👨‍🎓 Systems Analyst Student.<br>
-👨‍💻 Web Developer.<br>
-🚀 Passionate about web development.<br>
-📚 Committed to continuous learning.<br>
+## Sobre Mí 🚀
+Poseo una trayectoria de más de un año como desarrollador web, y me encuentro en el último año de la tecnicatura de Análisis de Sistemas con el objetivo de formalizar mi carrera y continuar avanzando en mi desarrollo profesional.
+
+Me caracterizo por mi disciplina y mi entusiasmo por asumir nuevos desafíos, siempre buscando oportunidades para integrarme en proyectos interesantes. Tengo la capacidad de adaptarme ágilmente a las demandas cambiantes del sector, desaprendiendo y reaprendiendo según sea necesario.
+🚀💻
+
 💻 Portfolio: https://portfolio-dev-lilac.vercel.app/<br>
 📩 Email: torrezpablo25@gmail.com
 
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pablotorrez1_) 
+## Tech Stack 🛠️:
+- <b>Programming Languages: </b> JavaScript, HTML, CSS
+- <b>Frontend: </b> React, Astro, Angular
+- <b>Backend: </b> Node, PHP
+- <b>Databases: </b> SQL, NoSQL (MongoDB, MySQL)
+- <b>Tools: </b> Redux, Axios, Tailwind CSS, JWT, Cookies, etc.
 
-# 💻 Tech Stack:
-
-## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,angular,redux,bootstrap)](https://skillicons.dev)
-
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,java,git,c)](https://skillicons.dev)
-
-### My nexts step
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=expressjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pblnahu1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pblnahu1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-### My Repos ⬇️
+## Contact 📬
+Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/) o mediante mi Email torrezpablo25@gmail.com
