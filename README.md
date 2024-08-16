@@ -1,4 +1,4 @@
-# Hola, soy <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Estudiante de Análisis de Sistemas 🤖 & Full Stack Developer 🧑🏻‍💻</b>
+# Hola, soy <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Estudiante de Análisis de Sistemas & Full Stack Developer 🧑🏻‍💻</b>
 
 ## Sobre Mí 🚀
 Poseo una trayectoria de más de un año como desarrollador web, y me encuentro en el último año de la tecnicatura de Análisis de Sistemas con el objetivo de formalizar mi carrera y continuar avanzando en mi desarrollo profesional.
