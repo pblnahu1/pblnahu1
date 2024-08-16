@@ -9,12 +9,12 @@ Me caracterizo por mi disciplina y mi entusiasmo por asumir nuevos desafíos, si
 💻 Portfolio: https://portfolio-dev-lilac.vercel.app/<br>
 📩 Email: torrezpablo25@gmail.com
 
-## Tech Stack 🛠️:
+## Tecnologías 🛠️:
 - <b>Programming Languages: </b> JavaScript, HTML, CSS
 - <b>Frontend: </b> React, Astro, Angular
 - <b>Backend: </b> Node, PHP
 - <b>Databases: </b> SQL, NoSQL (MongoDB, MySQL)
 - <b>Tools: </b> Redux, Axios, Tailwind CSS, JWT, Cookies, etc.
 
-## Contact 📬
+## Contacto 📬
 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/) o mediante mi Email torrezpablo25@gmail.com
