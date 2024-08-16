@@ -7,7 +7,6 @@ Me caracterizo por mi disciplina y mi entusiasmo por asumir nuevos desafíos, si
 🚀💻
 
 💻 Portfolio: https://portfolio-dev-lilac.vercel.app/<br>
-📩 Email: torrezpablo25@gmail.com
 
 ## Tecnologías 🛠️:
 - <b>Programming Languages: </b> JavaScript, HTML, CSS
