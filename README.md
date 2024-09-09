@@ -1,19 +1,19 @@
-# Hola, soy <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Estudiante de Análisis de Sistemas & Full Stack Developer 🧑🏻‍💻</b>
+# Hi, I'm <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Systems Analysis Student & Full Stack Developer 🧑🏻‍💻</b>
 
-## Sobre Mí 🚀
-Poseo una trayectoria de más de un año como desarrollador web, y me encuentro en el último año de la tecnicatura de Análisis de Sistemas con el objetivo de formalizar mi carrera y continuar avanzando en mi desarrollo profesional.
+## About Me 🚀
+I have more than a year's experience as a web developer, and I am in the last year of the Systems Analysis technical course with the aim of formalizing my career and continuing to advance in my professional development.
 
-Me caracterizo por mi disciplina y mi entusiasmo por asumir nuevos desafíos, siempre buscando oportunidades para integrarme en proyectos interesantes. Tengo la capacidad de adaptarme ágilmente a las demandas cambiantes del sector, desaprendiendo y reaprendiendo según sea necesario.
+I am characterized by my discipline and my enthusiasm for taking on new challenges, always looking for opportunities to join interesting projects. I have the ability to adapt quickly to the changing demands of the sector, unlearning and relearning as necessary.
 🚀💻
 
 💻 Portfolio: https://portfolio-dev-lilac.vercel.app/<br>
 
-## Tecnologías 🛠️:
+## Tech Stack 🛠️:
 - <b>Programming Languages: </b> JavaScript, HTML, CSS
 - <b>Frontend: </b> React, Astro, Angular
 - <b>Backend: </b> Node, PHP
 - <b>Databases: </b> SQL, NoSQL (MongoDB, MySQL)
 - <b>Tools: </b> Redux, Axios, Tailwind CSS, JWT, Cookies, etc.
 
-## Contacto 📬
-Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/) o mediante mi Email torrezpablo25@gmail.com
+## Contact 📬
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/) or Email: torrezpablo25@gmail.com
