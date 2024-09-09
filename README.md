@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>CEO <a href="https://www.github.com/tzwebtech/">@tzwebtech</a>, Systems Analysis Student & Full Stack Developer 🧑🏻‍💻</b>
+# Hi, I'm <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Systems Analysis Student & Full Stack Developer 🧑🏻‍💻</b>
 
 ## About Me 🚀
 I have more than a year's experience as a web developer, and I am in the last year of the Systems Analysis technical course with the aim of formalizing my career and continuing to advance in my professional development.
