@@ -10,10 +10,10 @@ I am characterized by my discipline and my enthusiasm for taking on new challeng
 
 ## Tech Stack 🛠️:
 - <b>Programming Languages: </b> JavaScript, HTML, CSS
-- <b>Frontend: </b> React, Astro, Angular
-- <b>Backend: </b> Node, PHP
-- <b>Databases: </b> SQL, NoSQL (MongoDB, MySQL)
-- <b>Tools: </b> Redux, Axios, Tailwind CSS, JWT, Cookies, etc.
+- <b>Frontend: </b> React, Angular, Astro
+- <b>Backend: </b> NodeJS, Express, PHP
+- <b>Databases: </b> SQL (MySQL, PostgreSQL) & NoSQL (MongoDB)
+- <b>Tools: </b> Docker, Redux, Axios, Tailwind CSS, JWT, Cookies, etc.
 
 ## Contact 📬
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/) or Email: torrezpablo25@gmail.com
