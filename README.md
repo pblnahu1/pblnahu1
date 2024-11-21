@@ -9,7 +9,7 @@ I am characterized by my discipline and my enthusiasm for taking on new challeng
 💻 Portfolio: https://portfolio-dev-lilac.vercel.app/<br>
 
 ## Tech Stack 🛠️:
-- <b>Programming Languages: </b> JavaScript, HTML, CSS
+- <b>Programming Languages: </b> JavaScript & TypeScript, HTML, CSS
 - <b>Frontend: </b> React, Angular, Astro
 - <b>Backend: </b> NodeJS, Express, PHP
 - <b>Databases: </b> SQL (MySQL, PostgreSQL) & NoSQL (MongoDB)
