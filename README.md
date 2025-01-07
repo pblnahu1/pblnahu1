@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Systems Analysis Student & FullStack Developer </b>
+# Hi, I'm <a href="www.linkedin.com/in/pablo-torrez-33a80324b">Pablo<a/>! 👋 </br> <b>Systems Analysis Student & FullStack Developer </b>
 
 ## About Me 🚀
 I have more than a year's experience as a web developer, and I am in the last year of the Systems Analysis technical course with the aim of formalizing my career and continuing to advance in my professional development.
@@ -15,4 +15,4 @@ I am characterized by my discipline and my enthusiasm for taking on new challeng
 - <b>Tools: </b> Docker, Redux, Axios, Tailwind CSS, JWT, Cookies, etc.
 
 ## Contact 📬
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pablo-nahuel-torrez-33a80324b/) or Email: torrezpablo25@gmail.com
+Connect with me on [LinkedIn](www.linkedin.com/in/pablo-torrez-33a80324b) or Email: torrezpablo25@gmail.com
