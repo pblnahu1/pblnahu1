@@ -9,13 +9,19 @@ I'm naturally curious and constantly learning - not only new technologies, but a
 
 I thrive in environments where people collaborate, share knowledge, and grow together. I'm comfortable working independently or as part of a team, and I'm always open to feedback.
 
-## Tech Stack & Tools 🛠️:
+## Tech Stack & Tools 🛠️
 - <b>Frontend: </b> JavaScript, TypeScript, React, Angular, Astro
 - <b>Backend: </b> NodeJS, Express, PHP
 - <b>Databases: </b> SQL (MySQL, PostgreSQL) & NoSQL (MongoDB), Firebase & Supabase
 - <b>Dev Tools: </b> Docker and Docker Compose, Git, GitHub, Postman, VSCode
 - <b>Styling: </b> CSS, Tailwind CSS, Bootstrap
 - <b>Others: </b> Deployment with Vercel/Netlify/Render, Auth with JWT, Encryption, Axios, Cookies, etc
+
+## Additional Skills 📋
+- Requirements Analysis and Functional Documentation.
+- Creation of UML diagrams, user manuals and guides.
+- Testing and Project Management with tools like Trello.
+- Web application design and Scrum for agile project management.
 
 ## Contact 📬
 🌐 Portfolio: [portfolio-dev-lilac.vercel.app](https://portfolio-dev-lilac.vercel.app)  
