@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/pablo-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>a passionate Full Stack Developer and final-year student in Systems Analysis from Argentina. </b>
+# Hi, I'm <a href="https://www.linkedin.com/in/pablo-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Full Stack Developer and final-year student in Systems Analysis. </b>
 
 ## About Me 🚀
 I have over a year of experience building modern web applications, both on the frontend and backend. My journey started with self-learning and side projects, and today I'm focused on strengthening my skills and gaining professional experience in the IT industry.
@@ -14,7 +14,7 @@ I thrive in environments where people collaborate, share knowledge, and grow tog
 - <b>Backend: </b> NodeJS, Express, PHP
 - <b>Databases: </b> SQL (MySQL, PostgreSQL) & NoSQL (MongoDB), Firebase & Supabase
 - <b>Dev Tools: </b> Docker and Docker Compose, Git, GitHub, Postman, VSCode
-- <b>Styling: </b> CSS, Tailwind CSS, Bootstrap
+- <b>Styling: </b> CSS, Tailwind CSS
 - <b>Others: </b> Deployment with Vercel/Netlify/Render, Auth with JWT, Encryption, Axios, Cookies, etc
 
 ## Additional Skills 📋
