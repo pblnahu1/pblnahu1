@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/pablo-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Full Stack Developer with Backend Focus and final-year student in Systems Analysis. </b>
+# Hi, I'm <a href="https://www.linkedin.com/in/pablo-torrez-33a80324b/">Pablo<a/>! 👋 </br> <b>Full Stack Developer and final-year student in Systems Analysis. </b>
 
 ## About Me 🚀
 I have over a year of experience building modern web applications, both on the frontend and backend. My journey started with self-learning and side projects, and today I'm focused on strengthening my skills and gaining professional experience in the IT industry.
