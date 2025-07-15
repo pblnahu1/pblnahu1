@@ -24,8 +24,8 @@ I thrive in environments where people collaborate, share knowledge, and grow tog
 - Web application design and Scrum for agile project management.
 
 ## Contact 📬
-🌐 Portfolio: [https://portfolio-pablo-torrez.vercel.app/](https://portfolio-pablo-torrez.vercel.app/)
-📫 Email: torrezpablo25@gmail.com  
+🌐 Portfolio: [https://portfolio-pablo-torrez.vercel.app/](https://portfolio-pablo-torrez.vercel.app/) <br>
+📫 Email: torrezpablo25@gmail.com <br>
 🔗 LinkedIn: https://www.linkedin.com/in/pablo-torrez-33a80324b/
 
 🚀 Let’s build something meaningful — together.
