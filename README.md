@@ -11,11 +11,11 @@ I thrive in environments where people collaborate, share knowledge, and grow tog
 
 ## Tech Stack & Tools 🛠️
 - <b>Frontend: </b> JavaScript, TypeScript, React, Angular, Astro
-- <b>Backend: </b> NodeJS, Express, PHP
+- <b>Backend: </b> NodeJS, Express,Java, PHP
 - <b>Databases: </b> SQL (MySQL, PostgreSQL) & NoSQL (MongoDB), Firebase & Supabase
 - <b>Dev Tools: </b> Docker and Docker Compose, Git, GitHub, Postman, VSCode
 - <b>Styling: </b> CSS, Tailwind CSS
-- <b>Others: </b> Deployment with Vercel/Netlify/Render, Auth with JWT, Encryption, Axios, Cookies, etc
+- <b>Others: </b> Deployment with Vercel/Netlify/Render/Railway, Auth with JWT, Encryption, Axios, Cookies, etc
 
 ## Additional Skills 📋
 - Requirements Analysis and Functional Documentation.
